@@ -58,7 +58,7 @@
 }
 
 .nav-search:hover{
-    border: 2px solid orange;
+    /* border: 2px solid orange; */
 }
 
 .all-list{
@@ -142,3 +142,30 @@
     font-size: 14px;
 }
 
+.panel{
+     display: flex;
+     flex-direction: row;
+     background-color: #232F3E;
+     color: white;
+     height: 38px;
+     align-items: center;
+     font-size:14px;
+}
+
+.panel-all{
+    margin-inline:1rem;
+    font-size: 16px;
+}
+
+.panel-detail{
+    display: flex;
+    gap: 1.5rem;
+    margin-left: 0.6rem;
+    width: 80%;
+}
+
+.panel-deals{
+   margin-left: 2rem;
+   font-size: 16px;
+   font-weight: 400;
+}
