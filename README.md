@@ -12,11 +12,8 @@ Currently implemented:
  Footer
 
 
-(Update this checklist as you build out more sections.)
-
 
 🛠️ Built With
-
 
 HTML5
 CSS3 (Flexbox / Grid)
@@ -52,7 +49,6 @@ Replicating a real-world, high-traffic UI with attention to spacing and detail
 Writing clean, semantic HTML for accessibility and maintainability
 
 
-
 📅 Roadmap
 
 
@@ -61,8 +57,6 @@ Writing clean, semantic HTML for accessibility and maintainability
  Add product cards with hover effects
  Make fully responsive for mobile
  Deploy via GitHub Pages / Netlify
-
-
 
 🙋‍♂️ Author
 
