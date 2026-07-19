@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.nav-logo{
+  height: 60px;
+  width: 100px;  
+  margin-left: 1rem;
+}
+
+.logo{
+    background-image: url("amazon_logo.png");
+    background-size: cover;
+    height: 60px;
+    width: 100%;
+}
+.border{
+    border: 2px solid transparent;
+}
+
+.border:hover{
+    border: 2px solid white;
+      cursor: pointer;
+}
+
+.nav-location p {
+   color:#f5eeee;
+   font-size: 12px;
+   margin-left: 15px;
+}
+
+.location{
+    color: white;
+    font-size: 14px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+.nav-search{
+     display: flex;
+     height: 38px;
+     width: 900px;
+     border: none;
+
+}
+
+.nav-search:hover{
+    border: 2px solid orange;
+}
+
+.all-list{
+      border-top-left-radius: 5px;
+      border-bottom-left-radius: 5px;
+      border: none;
+      height: 38px;
+      width: 50px;
+      background-color: #D4D4D4;
+      color: #666363;
+      font-size: 12px;
+      margin-left: 1rem;
+      text-align: center;
+}
+
+
+.all-list:hover{
+    color: black;
+    cursor: pointer;
+}
+
+.search-input{
+    height: 100%;
+    width: 100%;
+    border: none;
+    font-size: 1rem;
+   
+}
+
+
+.search-icon{
+    color: black;
+    border-top-right-radius:  5px;
+    border-bottom-right-radius: 5px;
+    background-color: #F3A847;
+    height: 38px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-account{
+    margin-left: 80px;
+}
+
+.account-para{
+    font-size: 12px;
+    
+}
+
+.account-list{
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.nav-order{
+    margin-left: 5px;
+}
+
+.order-para{
+    font-size: 12px;
+}
+
+.nav-cart{
+    display: flex;
+   
+  
+}
+
+.nav-cart i {
+    font-size: 30px;
+}
+
+.nav-cart p{
+    margin-top: 1rem;
+    font-weight: 600;
+    font-size: 14px;
+}
+
