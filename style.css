@@ -169,3 +169,39 @@
    font-size: 16px;
    font-weight: 400;
 }
+
+.hero-section{
+    background-image: url("hero_image.jpg");
+    height: 600px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+
+.hero-message{
+    background-color: white;
+    padding: 0.6rem 0.4rem;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    margin-bottom: 1rem;
+    width: 90%;
+    
+}
+
+.hero-message-ancor{
+    text-decoration: none;
+    color: #007185;
+}
+
+.hero-fashion{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
