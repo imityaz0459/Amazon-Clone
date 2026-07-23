@@ -172,11 +172,11 @@
 
 .hero-section{
     background-image: url("hero_image.jpg");
-    height: 600px;
+    height: 400px;
     background-size: cover;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content:end;
+    align-items:center;
     flex-direction: column;
 
 
@@ -200,8 +200,35 @@
     color: #007185;
 }
 
-.hero-fashion{
+.shop-section{
     display: flex;
-    flex-direction: row;
-    gap: 1rem;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: #B6CACB;
+    
+}
+
+.cards{
+    background-color: white;
+    /* border: 1px solid black; */
+    padding: 1rem 1.5rem;
+    height: 400px;
+    width: 330px;
+    margin-block: 2rem;
+  
+}
+
+.card-heading{
+    margin-bottom: 1rem;
+
+}
+
+.card-image{
+    height: 300px;
+    width: 280px;
+}
+
+.card-para{
+    margin-top: 0.5rem;
+    color: #007185;
 }
