@@ -232,3 +232,34 @@
     margin-top: 0.5rem;
     color: #007185;
 }
+
+.sign-in-container{
+    padding: 1rem 0.5rem;
+   
+}
+
+.sign-in-content{
+    border: 1px solid #bfbdbd;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-block: 2.5rem;
+}
+
+.sing-in-button{
+    background-color: #FFCE12;
+    padding: 5px 11px;
+    border: none;
+    border-radius: 1rem;
+    width: 270px;
+    height: 30px;
+    font-size: 14px;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.sign-in-content p{
+    font-size: 11px;
+}
