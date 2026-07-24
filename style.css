@@ -263,3 +263,22 @@
 .sign-in-content p{
     font-size: 11px;
 }
+
+.back-button{
+   background-color:#485769;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 60px;
+   width: 100%;
+}
+
+.button-anchor{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+
+.footer-container{
+    background-color: #232F3E;
+}
