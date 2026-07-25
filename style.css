@@ -279,6 +279,49 @@
     font-size: 14px;
 }
 
+
+
 .footer-container{
-    background-color: #232F3E;
+     background-color: #232F3E;
+    
+}
+
+.footer-links{
+    display: flex;
+    justify-content: center;
+    gap: 6.5rem;
+}
+
+.footer-column{
+    margin-block: 2.5rem;
+    
+    max-width: 160px;   
+    white-space: normal
+   
+}
+.footer-column h3{
+    color: white;
+    margin-bottom: 1.2rem;
+    font-size: 16px;
+    white-space: nowrap;
+}
+.footer-column ul{
+     list-style: none;
+     font-size: 14px;
+     font-weight: 500;
+     
+} 
+
+.footer-column ul li{
+    margin-bottom: 0.75rem;
+    /* line-height: 1.4; */
+}
+
+.footer-column a{
+    text-decoration: none;
+    color:#ddd;
+    
+}
+.footer-links a:hover {
+  text-decoration: underline; 
 }
