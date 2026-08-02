@@ -49,7 +49,7 @@ Replicating a real-world, high-traffic UI with attention to spacing and detail
 Writing clean, semantic HTML for accessibility and maintainability
 
 
-📅 Roadmap
+📅 Roadmap:
 
 
  Add hero banner section
