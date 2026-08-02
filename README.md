@@ -13,7 +13,7 @@ Currently implemented:
 
 
 
-🛠️ Built With.
+🛠️ Built With:
 
 HTML5
 CSS3 (Flexbox / Grid)
