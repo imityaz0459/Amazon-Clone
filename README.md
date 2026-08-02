@@ -61,7 +61,7 @@ Writing clean, semantic HTML for accessibility and maintainability
 🙋‍♂️ Author:
 
 Imtiyaz
-Computer Science & Engineering student | Front-end Web Developer in progress
+Computer Science & Engineering student | Front-end Web Developer in progress.
 LinkedIn • GitHub
 
 
