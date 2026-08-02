@@ -58,7 +58,7 @@ Writing clean, semantic HTML for accessibility and maintainability
  Make fully responsive for mobile
  Deploy via GitHub Pages / Netlify
 
-🙋‍♂️ Author
+🙋‍♂️ Author:
 
 Imtiyaz
 Computer Science & Engineering student | Front-end Web Developer in progress
