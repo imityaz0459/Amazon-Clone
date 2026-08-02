@@ -20,7 +20,7 @@ CSS3 (Flexbox / Grid)
 
 
 
-🚀 Getting Started
+🚀 Getting Started:
 
 Clone the repo and open index.html in your browser — no build step required.
 
