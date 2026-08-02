@@ -1,4 +1,4 @@
-📌 About the Project
+📌 About the Project:
 
 This project recreates the core look and feel of Amazon's homepage and navigation, focusing on pixel-accurate UI, responsive layout, and clean, semantic code. It's part of an ongoing series of front-end projects built to strengthen my web development skills and portfolio.
 
