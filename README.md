@@ -30,7 +30,7 @@ cd amazon-clone.
 Then simply open index.html in your browser, or use a live server extension in VS Code for hot reload.
 
 
-📂 Folder Structure
+📂 Folder Structure:
 
 amazon-clone/
 ├── index.html
