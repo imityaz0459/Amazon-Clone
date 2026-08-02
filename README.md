@@ -44,7 +44,7 @@ amazon-clone/
 🎯 What I Learned / Practiced
 
 
-Structuring a multi-section responsive layout from scratch
+Structuring a multi-section responsive layout from scratch.
 Replicating a real-world, high-traffic UI with attention to spacing and detail
 Writing clean, semantic HTML for accessibility and maintainability
 
