@@ -41,7 +41,7 @@ amazon-clone/
 └── README.md
 
 
-🎯 What I Learned / Practiced
+🎯 What I Learned / Practiced:
 
 
 Structuring a multi-section responsive layout from scratch.
