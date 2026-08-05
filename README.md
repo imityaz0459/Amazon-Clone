@@ -5,7 +5,7 @@ This project recreates the core look and feel of Amazon's homepage and navigatio
 Currently implemented:
 
 
- Responsive navigation bar (logo, search bar, account/orders, cart)
+ Responsive navigation bar (logo, search bar, account/orders, cart).
  Hero banner / carousel
  Product category cards
  Product grid / listings
