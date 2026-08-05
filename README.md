@@ -9,7 +9,7 @@ Currently implemented:
  Hero banner / carousel
  Product category cards
  Product grid / listings
- Footer
+ Footer.
 
 
 
