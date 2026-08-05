@@ -37,7 +37,7 @@ amazon-clone/
 ├── css/
 │   └── style.css
 ├── assets/
-│   └── images/
+│   └── images
 └── README.md
 
 
